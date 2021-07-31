@@ -1,4 +1,4 @@
-# MERN Trello
+# Trello Clone
 
 <img src='./preview.PNG'>
 
